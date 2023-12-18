@@ -1,0 +1,5 @@
+-- npm run dev
+-- npm i react-spinners
+-- npm i react-simple-typewriter
+-- npm i @heroicons/react
+-- npm install --save @itseasy21/react-elastic-carousel
