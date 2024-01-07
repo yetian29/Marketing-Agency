@@ -30,6 +30,9 @@ const config: Config = {
 
       '2xl': '1536px',
       // => @media (min-width: 1536px) { ... }
+    },
+    fontFamily: {
+      "dancing": ['Dancing Script', 'cursive']
     }
   
   },

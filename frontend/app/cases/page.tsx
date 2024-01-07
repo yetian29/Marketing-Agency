@@ -1,5 +1,5 @@
-import Header from "@/components/cases/Header";
-import CaseList from "@/components/cases/CaseList";
+import Header from "@/components/page/cases/Header";
+import CaseList from "@/components/page/cases/CaseList";
 
 const Page = () => {
     return (

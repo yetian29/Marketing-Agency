@@ -22,6 +22,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "components/page/blog/Header.jsx", "components/page/blog/Posts.jsx", "components/page/careers/Feature.jsx", "components/page/careers/Header.jsx", "components/page/careers/LogoCloud.jsx", "components/page/careers/Testimonial.jsx", "components/page/careers/PositionList.jsx", "components/page/cases/CaseCard.jsx", "components/page/cases/CaseList.jsx", "components/page/cases/Header.jsx", "components/page/home/BlogList.jsx", "components/page/home/BlogSection.jsx", "components/page/home/Features.jsx", "components/page/home/Header.jsx", "components/page/home/Incentive.jsx", "components/page/home/LogoCloud.jsx", "components/common/footer/Footer.jsx", "components/common/navbar/Navbar.jsx", "components/page/services/Header.jsx", "components/page/services/ServiceCard1.jsx", "components/page/services/ServiceCard2.jsx", "components/page/services/ServiceList1.jsx", "components/page/services/ServiceList2.jsx", "components/page/services/ServiceSection.jsx", "app/search/[search_term]/page.jsx", "app/category/[category_slug]/posts/page.jsx", "app/blog/[post_slug]/page.jsx", "app/blog/page.jsx", "app/about/page.jsx", "app/contact/page.jsx"],
   "exclude": ["node_modules"]
 }

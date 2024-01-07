@@ -3,3 +3,4 @@
 -- npm i react-simple-typewriter
 -- npm i @heroicons/react
 -- npm install --save @itseasy21/react-elastic-carousel
+-- npm i moment

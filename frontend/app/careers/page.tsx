@@ -1,8 +1,8 @@
-import Header from "@/components/careers/Header";
-import Testimonial from "@/components/careers/Testimonial";
-import LogoCloud from "@/components/careers/LogoCloud";
-import Feature from "@/components/careers/Feature";
-import PositionList from "@/components/careers/PositionList";
+import Header from "@/components/page/careers/Header";
+import Testimonial from "@/components/page/careers/Testimonial";
+import LogoCloud from "@/components/page/careers/LogoCloud";
+import Feature from "@/components/page/careers/Feature";
+import PositionList from "@/components/page/careers/PositionList";
 
 const Page = () => {
     return(
